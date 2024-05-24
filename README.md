@@ -76,7 +76,9 @@ In addition to the description above, the file can be used to verify if the PLAN
 
 ## Time Distribution
 Data Analysis: 1h
+
 Code: 30min
+
 Writing: 40min
 
 ### Execution time 
