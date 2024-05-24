@@ -1,6 +1,32 @@
 
 # Solution Take-Home Assignement
 
+## Files
+- ANTHEM_PPO_NY_URLS.csv: Output
+- stream_main.py: main code for stream execution
+- main.ipynb: used for debugging purposes
+- EDA/: files used for data exploration
+
+### Requirements
+Create Conda environemt from .yml. Python 3.10.14 was used
+```bash
+conda env create -f env.yaml
+```
+### Execution
+
+Change the below **INPUT_FILE_PATH** accordingly.
+
+Example:
+
+INPUT_FILE = "../2024-05-01_anthem_index.json"
+
+OUTPUT_FILE = "ANTHEM_PPO_NY_URLS.csv"
+
+```bash
+python stream_main.py ../2024-05-01_anthem_index.json ANTHEM_PPO_NY_URLS.csv
+```
+
+
 ## Explanation
 
 #### Stream
@@ -52,26 +78,6 @@ In addition to the description above, the file can be used to verify if the PLAN
 Data Analysis: 1h
 Code: 30min
 Writing: 40min
-
-## Script
-### Requirements
-Create Conda environemt from .yml. Python 3.10.14 was used
-```bash
-conda env create -f env.yaml
-```
-### Execution
-
-Change the below **INPUT_FILE_PATH** accordingly.
-
-Example:
-
-INPUT_FILE = "../2024-05-01_anthem_index.json"
-
-OUTPUT_FILE = "ANTHEM_PPO_NY_URLS.csv"
-
-```bash
-python stream_main.py ../2024-05-01_anthem_index.json ANTHEM_PPO_NY_URLS.csv
-```
 
 ### Execution time 
 
