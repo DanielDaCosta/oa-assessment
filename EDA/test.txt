@@ -1,0 +1,89 @@
+LOGIC => 
+empirebcbs
+
+
+"description": "Highmark BCBS Western NY : HighMark BlueCross BlueShield of Western New York-PPO",
+"location": "https://anthembcbsoh.mrf.bcbs.com/2024-05_301_71A0_in-network-rates_01_of_02.json.gz?
+&Expires=
+1718978443&Signature=atb4xiGMmvANG~JNCXVeMsnUifuGiCmui8tDhdpPvAqLQR1~8ZlVXulKL5HYAJVB5YuShYvIfc1mFb-UzJYbQNVWd5m-1F-kz6TD3iOvzRo2nVKBlFjcaeeV8ZgW963rANV24-7nN2BpOsE~GKGwTt0zizt8m~9Ig~1djOr~f9BiQOt73AzMnw~PYCXfD9~NNrgXyk25HcMp4KDcj-YS-4N0Latiz0sPonThaN-g6XsjnvJr2hSxRl6z3ZeUecawn7tCBt6mJYJBu3EiQnCF9EfOZlY5989qMEhCgOH6TvCh7SF8D2rfc1V7a9J6CsYkgsM5pRKKQR5VrVpWhF6OKw__&
+Key-Pair-Id=K27TQMT39R1C8A
+
+
+"description": "In-Network Negotiated Rates Files",
+"location": "https://anthembcbsoh.mrf.bcbs.com/2024-05_040_05C0_in-network-rates_3_of_5.json.gz?
+&Expires=1718978443&Signature=3DNPTki21ErqSSmfGNwiXPeQ2RwF1f2IorucTW4Xt5ZPspX9eXqh-rlNHmaup50eNsB00rvzZlZUueqjapFtnB5FeIwe-Wpb6qB8jXBPak5QB8vrem6~PNJzVFa6j7DuhUTGGwB1Ier-VlTE2SMTxmLhZgfwb9U8gQzVvArzRCOsfQVRlyVS0TOUf9gbLTN2yfAZZOXdSX3RXjIZQB4NbwjAo1yaLmt~U1mjCviLgcutzMvgJZFVUoZvzGxkh~BHDMd5WqAPzthTur7qFVRbeOQr2K0oP8Y204PQM0uQRi3vyXnbivg7RNX7v8sD330Gpp6iAAYf4jmPXqLg~~iGRw__&
+Key-Pair-Id=K27TQMT39R1C8A"
+
+
+
+KeyPairID => 
+
+BlueCross BlueShield of Tennessee
+
+
+
+
+NY => NAME DOES NOT CHANGE BASED ON THE STATE
+"description": "Highmark BS Northeastern NY : Highmark Blue Shield of Northeastern New York - PPO",
+"location": "https://anthembcca.mrf.bcbs.com/2024-05_800_72A0_in-network-rates_01_of_02.json.gz?&Expires=1718978438&Signature=jstyS5zxlkHwJtZbO9PnwFdXy3k~EvNWoJ~7Ke3KCw65oNG1sgMZU~MULfwS3h8MRrCHgArK0WsZJCvjVnNMbFWf4nthS2YGMGwiXs8mylNG7xzHOs24fhw8c83DllAvXvJ~9Z-wqXbzlSz7Qy84myY43CtDTK4FwMkVEgUSFp-ycKBtEMdQJCX3PPMvcbTH8GXKSdHvI7NGIsymoNdvV8mrlAYP1TTjYdtfxypZzf9OaBZGfvqPkgs7EElQKn04oBX-yG~fksGfoCDe0CQyfqKq5Zq4g2D0-z1JZJX6cXe7hSwLkdxk-JKqvIn4B2lQ4Dr~nGXqMOeP7l7JRqV5TQ__&Key-Pair-Id=K27TQMT39R1C8A"
+"description": "Highmark BS Northeastern NY : Highmark Blue Shield of Northeastern New York - PPO",
+"location": "https://anthembcbsmo.mrf.bcbs.com/2024-05_800_72A0_in-network-rates_02_of_02.json.gz?&Expires=1718978441&Signature=2inGfXD5NuaYmE00Mt2ujW9MChTC~-wdLCe806ZFLQSDzghaSZoW0m7~DC-irRlBQegSXkUJtCgNp1m1kRKc-j6v9hwgDhynlxvVpXtW59FZRA~t1C9OlCcgC~M~JWW79cmyS~neR5eGE4KpkKjXuWi8GTVaTotHW~HThValUwJzveACNzQlMdsPkAfZ5rPFx1RLf7xwPFARdQxgIgIUfV639gONO2JtB6GRNvQkR1BWmfpAoGVLpjF7IJZVsHJNvC0~oCngTc94AVD26fXOTArCtmSFQ9EzrXaRRMObuKGYycv~PKK-rC9JI7wi~M~pSohwkX3e4IFPRyvtQsjwSg__&Key-Pair-Id=K27TQMT39R1C8A"
+"description": "Highmark BS Northeastern NY : Highmark Blue Shield of Northeastern New York - PPO",
+"location": "https://anthembcbsct.mrf.bcbs.com/2024-05_800_72A0_in-network-rates_02_of_02.json.gz?&Expires=1718978439&Signature=NhzJb5dfNZixGl7HQ7Ai7mijOsqFwYHrdctZKG6qKC3KCP6UT0TYu61TszdCB6HqbxOcKEF8qQvPrIFtFC17~LuEj2KGahVqCw8Ta2pi0GVoShHlklvijj4CMz-4Wbod8XRJwqGoeUTeDxqmDGeTWakMdpwBvaao1nEf4jYrF24WCbZMLK29nALkc2OHjaK-zMWcAWIhN4FsE7SlRZOo5~Z~uRizI1sT7w2cW5CT~jCH7uIS3UpGIqYA-EnQIhUyi4eDsHEArM2La2NqoHp~ce~y2CLAvUjefd5x3BnRTYkKbq9i6ZiVwo8lBgPl-n5nn~DcalW37~G3RIPT9imItA__&Key-Pair-Id=K27TQMT39R1C8A"
+"description": "Highmark BS Northeastern NY : Highmark Blue Shield of Northeastern New York - PPO",
+"location": "https://empirebcbs.mrf.bcbs.com/2024-05_800_72A0_in-network-rates_02_of_02.json.gz?&Expires=1718978441&Signature=3AD6wO2VYUDojjc3LxfMqc25VOgMVI63BTTWfETuMHtk3H8vbctp9NRSItnsi-5mupCulC7-DGr6Owichqeq0m8mtdycA0-2MDCV3~YK2icxWv79Y1mbDAVemB74boP~aknZMnpNMZIKr0hwF~oC4QO7Qs0--Umxlo3316wbFO3Xk2W0WrxsJQ-sVGKm~UYpVBQqPxFe9wBvBq2mY61SKTXQAS1Rr0JI1Mkkha0lxW2Fp3coFH5IpeNHZqEP8cSVvFabE3DsjJmfBczGI5s9GnZG6CkUE8xWvUjZJ0tCB5Tk36dlkngV0S123-frR0vO9kPAHz6aSmqiqASNnebCHQ__&Key-Pair-Id=K27TQMT39R1C8A"
+"description": "Highmark BS : Highmark BS Network",
+"location": "https://anthembcca.mrf.bcbs.com/2024-05_378_49A0_in-network-rates_06_of_18.json.gz?&Expires=1718978438&Signature=f2GCdJMotEcDb7BxApgR7Ahr5Nv-zyMqHokpL2vHutvrXnn0yuqpR48S3VAueLFr39X0Mdm3kiFddpVtHkWSo~Tg0AeP2JngukxnXbr5oCQ3ZiUY6CKT7UMH1exPWhtHZFprdxEfVFIbRlJT7ySmbUfgH9A~3V9kU~xbBpGyLr6BrBNGhVIMM1YD5rBp9FCkZNcmdaBwr7PtkVzMQRiTNdfwsPqhaFCqWv~3afaGRNcBizLAyS24O~U4mzyAxx71uTi5daECYC4rbPjj53T2U4q3b-9tFSTzBYd~DUsCte20D7zH7-pDcis3SFnkT-sWUX0ighdTijXIGz2XmCnlVw__&Key-Pair-Id=K27TQMT39R1C8A"
+
+TRADIONAL 
+"description": "Highmark BS Northeastern NY : Highmark Blue Shield of Northeastern New York Traditional",
+"location": "https://anthembcca.mrf.bcbs.com/2024-05_800_72B0_in-network-rates_02_of_02.json.gz?&Expires=1718978438&Signature=iQfd5bmsBizgTtYIWqN-jY1mVKPwH4E8ysJ2lcnZ3LPQqbeF3D2v22~-THaanPtqx90pw157OH8uSBgD1cbHUTWG5vI5q7Ih6oTZUj2UnaBeO70r7OXPf9tuHrbUng3poa1pnfDpc2nrdhuYoLfaCeIU8cloWw7rxke778Lx63thID-4vpUxhvrMvWw4MBgVVoxgoHF8hGeGbJ1XIL~fAFfvYbYgf55stCZygR9LuZwch0b6uHX6kgJIjHK9s~MxQB5y2nHTEK5iMuxA7uU4GzBwG9tB8R1W1MxjtPEULC6P8DKezKZiFbPVUkjl6kNvo3i6mnP59UlWMK5uDNdqnw__&Key-Pair-Id=K27TQMT39R1C8A"
+
+
+TENESSE ANALiSYS
+"description": "BCBS Tennessee, Inc. : Network P",
+"location": "https://anthembcca.mrf.bcbs.com/2024-05_890_58B0_in-network-rates_52_of_60.json.gz?&Expires=1718978438&Signature=cwDqzCxn4WHVPFcpy~obI40Njhiyj2K9y5~LxWnvGOzxfWyys-oVTqi-ZTpUfFFhBRqJ0NmNSGAlX3sttvsykZaY5wKnhTVcvNgzcKdmw~UVR-d-mnD7OD2G0OhaeH84xCOOjHG39oQLNkUSpFhwPQk0soDYs8FzsLL-eufVENA~N3TXfHFT74zWzwyFLCi2XkUtj7d-2Nf~iRt-Do3G-zrbgxnVq~76yYRaE0KgkFM8dEwHg-sTvAejIgrQRO7yKydl6O1WUuy3sFOBkPSlnK-5658hx-X5-Hx1xSFNq4myBqu4OOEduN0~BY8IONQmp6vWsVz5rhFqO0Tf10oDjA__&Key-Pair-Id=K27TQMT39R1C8A"
+Tennessee
+"location": "https://empirebcbs.mrf.bcbs.com/2024-05_890_58B0_in-network-rates_40_of_60.json.gz?&Expires=1718978441&Signature=CTr9QQuPRhPOwBWh8Rhs5OmYEghzKpy-BZ85yok7Elm1GSeZBnf5KGgIPZtnlPjhqwHqZTzT4JR0AyiH4Aojj2PWFFEwErQzJpCLHkWyBFWBP7gEu4S4qM9HIlp7rsSEC0imvolND~67uIV9926~HXKnwI3Z9wDaBV5vogsQCcecFlH~g9-OQ~DYsyMisBHdRfV5JVZkkPnze~pHuHkHqIidj2LBo7kMZG99Lfp9jJ7KMG0c9UpLMMM73UfTAmBF5LiU689D3Krec3h1VL5ed-jvUxFOkZttGfTJlQjoQF1ahGrzQy~5cdBatX-txfQo9gr6nAaZ-3sOpfItVvHWjg__&Key-Pair-Id=K27TQMT39R1C8A"
+"description": "BCBS Tennessee, Inc. : Network P",
+"location": "https://empirebcbs.mrf.bcbs.com/2024-05_890_58B0_in-network-rates_29_of_60.json.gz?&Expires=1718978441&Signature=CWH-GubREjoUQOYwVfJKdr2D9bCWT-VQ9Rjj8OLKtkLk8V721fiqJE0NyyM75aOGywgOdZqT-Fn39uz9FyDMP~-7U~R1vY8b44Yd1aijTELQPPFnxhd5hoNCHyxgA2HTvl~i4yFWem5cPI3b3xN09iytaTTE7lHGDQ16KmfTV5IINBmdRXidka1Ujl3aae7vikLw~HdQiGK0qr2RuTYyNB6fhz7KCsPNK-EkfXA22U0Me69jhjTWLRWVFIqG5UGFSX1SY4g8tKRecu51hVSAK6ZwXBJcOCi81CIzFkHjnZNQCcRbskun2e89qr9UKCbocQwEtEoXtHwgzz~qDPS5~g__&Key-Pair-Id=K27TQMT39R1C8A"
+
+NETWORK C => D0
+"description": "BCBS Tennessee, Inc. : Network C",
+"location": "https://anthembcca.mrf.bcbs.com/2024-05_890_58D0_in-network-rates_33_of_60.json.gz?&Expires=1718978438&Signature=JqwnSFm8B2PlVEv6hrl93fge3gMHbkXH-KmnziMDUr5uVtTns-Dk8YHZOEwgFdP00SEjH7~yK1dJYoANL3ghUc8lP5EWNLi~QcsGhMm9qhh7-ZeVUTkOdJc-hdN1Lq9l1-nGKu8v280ZwSl9TG8MFL1q~fGK~PH-nz6kqDaEBuz1wlarezKf1mZfkZfo84q~lOWOp294PfWGDfr83mb7yhK3sL~pkNd3yxAbWcsLjaFX9jsVTn4ekYe9TzlTQ3nG~C3Erb1Me8hgKpo7PdNEZ3ilgforIY9PZwvlWw0LkZDJQ8al-nSovWfwtDtrqMWm4D3GqUdw-GIb8XCQdgcSKw__&Key-Pair-Id=K27TQMT39R1C8A"
+
+
+PPO => I0
+
+"description": "Arkansas BCBS : True Blue PPO",
+"location": "https://anthembcca.mrf.bcbs.com/2024-05_020_02I0_in-network-rates_2_of_2.json.gz?&Expires=1718978438&Signature=KiB1o7NOH0joLh0H~uDPc5l-XZPZvp~zBGi5Wq05Gj850~lVwxUZAZ1FoLNzFCmdqNiUM6lpB9W6tU3csPUojuRpSb~gu1qz60ld4GYMZB5ym8kzYjLEUCkzmQAvcA84vWDNT6XGNk2hcbLH42cmheXpIZ0hYNBXj1nQ58jDOB19G1JsXuld6u6SeD1qjkIqhIy-TKtAkpjWnYW940y-KkHNu~IqL~K5Gf5FwX40WBapQrUV2iePD8C5c080-Q~ZEVdPTWB614bqj-QEinh1WALIwaFO0uOCsrBxSzaW4fkBBVePrROCmtuK-xtWxhwkYFu7ujfm8G89c0Ouh6PK-w__&Key-Pair-Id=K27TQMT39R1C8A"
+PPP NETWORK => E0
+
+"description": "Arkansas BCBS : PPP Network",
+"location": "https://anthembcca.mrf.bcbs.com/2024-05_020_02E0_in-network-rates_2_of_2.json.gz?&Expires=1718978438&Signature=rRGwxouh8PJR1f4C43bru2HAwNaApATR7UParnblGP2It2St6LxTjKKwdFwgA2fkQAmpAbgTiKIirQwOG5jnkVaACsZ1r0CEFddhi~dCGhx5BKnyrXYUrKzjbzffK9iZ9Fhf9tu~QWhP9mPhmgkt7vuNsbZIlbcHqG3CY7aZ3RPkDTQ2FhFM8Zm-WBeYLLWZ7v2bRWyae6LuHuHe5PIHbgN~6H4kG4FCTNgM69JumnBtEeAg~xtxHPUcdnjdCzobOdvCZ1XF4b3jOWMQf8zLfPrq6CH4bfeZ1jn6baZZLZ91XtrUfvreyfiHroU0YU8BhqTG1FUMaVWT4j7BuJ6WXQ__&Key-Pair-Id=K27TQMT39R1C8A"
+
+
+CAREFIRST 
+"description": "CareFirst BCBS : PAR Network",
+"location": "https://anthembcbsoh.mrf.bcbs.com/2024-05_690_08D0_in-network-rates_8_of_35.json.gz?&Expires=1718978443&Signature=v2q2AjD3iCJ9IIKEenfTsCrLjT9fW2rLQxd0cbfScPPW~Cww46tA~OCRdG2yZTnqad0emw2RVZbE9j3f1TcOJOXkGKVVOy6UpOxdvKlnVeX8xz9yEmp34taqOuljmLThlwyenELtZMUIP7tTPPVT-A~snOLlOhAnTsEz7jZ8OzX9IzSYvax4GPE0pnNTtOgF~JH8U9V4bKLdMMqLF5iLqqv1pEVPeWN1yv5O9pFCVYIgkonQ6C~9fdS3-hQYTSTs8oT0OuSRw8p6ArqCtHKC7BYtLIJS1dkcUPa2A3ntfZyBDym5txOuAY05GzkjPx-lzClt~06eKt2Zs6JZX48qOg__&Key-Pair-Id=K27TQMT39R1C8A"
+"description": "CareFirst BCBS : Select Preferred Provider",
+"location": "https://anthembcbsoh.mrf.bcbs.com/2024-05_690_08B0_in-network-rates_18_of_35.json.gz?&Expires=1718978443&Signature=t824ljZBcnYkwOxQaM3VfX93aBNUgGW0rurw~Plnj6TWhZCd~m4xbeu8wixeU31s4Rg9n--CK365uSuWu1UMGb9NaaWqxitPUEyeEJjzDqsQnKd2OBRca92-8HDeWkLpLbMSzdDF-swxDoTEKl19z-eGWolLpZukn2meLpt5lIjUBLBfQhzrvVqycfU~SGa75T2wQpnII6WDb2QE4KD1MnVNojF-0eowVvx19RWIL7OX3Ohk2f7mtk1sAOoHw8QE3EGcA6-oNJuoi9LcEmxEo9Kw3yS7lmmv7CM1w01lR4EU44PytwtaQM1KeVSbFuDNdXTSX-ge8je5G9korO-apg__&Key-Pair-Id=K27TQMT39R1C8A"
+
+
+
+
+
+"description": "Excellus BCBS : BluePPO",
+"location": "https://anthembcca.mrf.bcbs.com/2024-05_302_42B0_in-network-rates.json.gz?&Expires=1718978438&Signature=VEAIQ-xmaaZ43Mqek1lpGhGEgTrwX3N~ZVCtuq8H8eAdfeB2BkQEHwq-YLqxEBjKAKuodHvZ-oJUk2g1i5430iVqwZUYSq4AHWH63fyX0r~vzuKfV~tsOhiOw3Em~Hjugx7~c1jJIKtZjTqRvxQ2sN79fXau7oG7FRwEU6k7ltHvolCmj9poQMkfnVwN6LsTMO~UO~r~FlvJmdmmC8Db62dMyHqbNdJBMAp5AZxhzqzg-Otou7-unj-y~YK4XIkCxGsWjeLRGINZzVoPs9MbM9DCWLIA6n-58BPEAeOBhuTvtNW4~G1AsrNZ0wopgQ17~ZtZVxOzQYhDG0bz~tRPGQ__&Key-Pair-Id=K27TQMT39R1C8A"
+"description": "Florida Blue: BCBS Florida : PPC / PPO Network",
+"location": "https://anthembcca.mrf.bcbs.com/2024-05_590_10G0_in-network-rates.json.gz?&Expires=1718978438&Signature=wo0J6MPcDZRZ5rpDEOcJeN3dW1ztC~3EnDwR2jJcT0U3HZtUEMVpn10E1qqESsyUyAdxPwstOmkJvSoXF2Db1Dn4p-tDgCM16eDjgqfCEuFkE8eprRKiknqQYmHvH~HKuT6QqWBInwIOH6ohHWupjBvU2-yGyl-7vm4EHT3qMX3lYwFp9l0lIxg0WMDpvs5SqYMUYPSdhvdZrBfRgsD-5wmqEjLl0tH~X0qLQQnxU1ETRjLlZp8zIibL4b7gEnxglSAmFJ-SNDuTp8-w0x95C7b7K3bkinDOaSyQxtvOcVBjG364XXDo~sLQ4F6hmHh6okYhLtfCt6NYjBRXI2UtdA__&Key-Pair-Id=K27TQMT39R1C8A"
+"description": "Highmark BS : Highmark BS Network",
+"location": "https://anthembcca.mrf.bcbs.com/2024-05_378_49A0_in-network-rates_12_of_18.json.gz?&Expires=1718978438&Signature=geB5U9UFcopPO9altUSg7Qf6d38DssBk5S1BuSKURpAcMz0z85AGXZOAKDLvD0t2b50MnuZTWVcMZyry-wkRp5Fg1wdp7ScFIsGkrJEHn5JiGZiaKTlfCC7i5xJdtreASGFkuw0s3AIptFqi7Y42P1UYVpJVmJr8cBPCZUw8jo~zsrv0mhBehusZYhgt6s78bZrqY4IGAxd7cdtFzy3d5XIGS9S12cSsjPNBRpBCcs0R6p6HByeFayB1gpYOs2occSzes5eShmJNGbec0Ku8od4nR37PaTH592Zuaem1WeFgX4cRmzkuULsG1Ny~sSz8c5oQXuujQRjn7yE5FIuHcA__&Key-Pair-Id=K27TQMT39R1C8A"
+
+
+# ANTHEM PPO
+
+EXAMPLES:
+
+ANTHEM BLUE ACCESS PPO
+ANTHEM PPO
