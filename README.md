@@ -42,7 +42,7 @@ The following step consisted of identifying which URLs I need to keep track of.
 
 ##### 1. Identify ANTHEM PPO
 
-To identify the plans corresponding to ANTHEM PPO, I built a regex on the that would check if ANTHEM...PPO is in the plan_name. This idea came after finding some examples of that I found on the JSON, such as "ANTHEM BLUE ACCESS PPO HSA - THE CULVER EDUCATIONAL FOUNDATION - ANTHEM"
+To identify the plans corresponding to ANTHEM PPO, I built a regex that would check if ANTHEM...PPO is in the plan_name. This idea came after finding some examples on the JSON, such as "ANTHEM BLUE ACCESS PPO HSA - THE CULVER EDUCATIONAL FOUNDATION - ANTHEM"
 
 
 ##### 2. Identify NY
