@@ -52,7 +52,7 @@ Once I had all the in-network files realted to ANTHEM PPO, the next step consist
 
 The urls were composed of some KEYPAIR and EXPIRATION tokens that were not meaningul. The important part was the before .gz file.
 
-In the below example for BCBS Tennessee, we can see that the number 890 is constant accross both URLs. The number the difference lies in B0 to D0, therefore my intuition is that B0 and D0 are related to the network and 890_58 to the plan and state.
+In the below example for BCBS Tennessee, we can see that the number 890 is constant accross both URLs. The difference lies in B0 to D0. Therefore, my intuition is that B0 and D0 are related to the network and 890_58 to the plan and state.
 ```json
 {
     "description": "BCBS Tennessee, Inc. : Network P",
