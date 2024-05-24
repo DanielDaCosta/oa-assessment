@@ -93,3 +93,6 @@ After extracting the URL, the next step consists of creating an ETL process to r
 I would deploy this solution as this:
 
  STREAM JSON => STORAGE => BATCH PROCESSING JOB for post-processing (remove duplicates, check for False Positives using EIN Lookup website)
+
+
+ Some URLs did not follow that aforementioned format, such as "https://antm-pt-prod-dataz-nogbd-nophi-us-east1.s3.amazonaws.com/anthem/CA_ELHOMEDELHO.json.gz". Another approach would have to be used to process this.
