@@ -65,7 +65,7 @@ In the below example for BCBS Tennessee, we can see that the number 890 is const
 ```
 The URL has variations in the `anthembc` prefix, which changes based on the location. For instance, "anthembcca" and "anthembcbsoh." I found it puzzling that the URL for California contained "BCBS Tennessee." Even after downloading the in-network file, the reporting_entity_name still appeared as BCBS Tennessee. I assumed that the "anthembcca" prefix was only for hosting purposes, as the files were the same for different prefixes, such as `anthembcca` and `anthembcbsoh`.
 
-The "description" field was not very helpful, as the only instance related to New York that I found in the extracted samples was "Highmark BCBS Western NY," which is not part of ANTHEM. Therefore, after examining the files, I decided to filter based on the plan corresponding to ANTHEM in New York. After reviewing the "In-Network Negotiated Rates Files" description, I found that the code 240_39B0 and 240_39F0 corresponded to ANTHEM in New York: `Empire BlueCross BlueShield`
+The "description" field was not very helpful, as the only instance related to New York that I found in the extracted samples was "Highmark BCBS Western NY," which is not part of ANTHEM. Therefore, after examining the files, I decided to filter based on the plan corresponding to ANTHEM in New York: `Empire BlueCross BlueShield`. After reviewing the "In-Network Negotiated Rates Files" description, I found that the code 240_39B0 and 240_39F0 corresponded to ANTHEM in New York 
 
 
 ##### 3. ANTHEM EIN Lookup
