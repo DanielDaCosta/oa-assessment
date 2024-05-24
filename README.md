@@ -70,7 +70,7 @@ The "description" field was not very helpful, as the only instance related to Ne
 
 ##### 3. ANTHEM EIN Lookup
 
-When using this tool I realized that there was a pattern per state, for instance New York had 39FO, Tennesse 58D0 and etc, which helped be come to previous conclusion.
+When using this tool, I realized that there was a pattern per state; for instance, New York had 39FO, Tennessee 58D0, and so on, which helped me come to the aforementioned conclusion.
 
 In addition to the description above, the file can be used to verify if the PLAN NAME EIN is associated with an ANTHEM plan by checking if it's included in the NY list. Due to time constraints, I was unable to explore other solutions, but I'm considering using the EIN number of the providers for this purpose, although I'm not sure how to proceed.
 
